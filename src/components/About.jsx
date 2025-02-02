@@ -1,4 +1,4 @@
-import DP from '../images/dp.png'
+import DP from '../images/DP.png'
 import leetcode from '../images/leetcode.png'
 import linkedin from '../images/linkedin.png'
 import github from '../images/github.png'
