@@ -42,7 +42,7 @@ export function Education(){
                         </EducationTile>
                     </div>
                     <div className="row pt-4">
-                        <EducationTile year1={2022} year2={2023} title={'Web Developer (Tata Consultacy Services)'}>
+                        <EducationTile year1={2021} year2={2023} title={'Web Developer (Tata Consultacy Services)'}>
                         Developed custom workflows, responsive web designs, data models to meet the business requirements and 
                         validated to achieve project goals. Developed custom UI components using React JS and Bootstrap. 
                         Created custom search views, asset views, and dashboards improving the 
